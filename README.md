@@ -3,14 +3,6 @@
 This repository contains a comprehensive collection of Jupyter Notebooks focused on data analysis using Python. It covers essential libraries like **Pandas**, **Matplotlib**, and **Seaborn**, along with practical projects analyzing job market data.
 
 ---
-
-## 🎓 Course Credits
-This project was built while following the excellent "Python for Data Analytics - Full Course for Beginners" by **Luke Barousse**.
-* **Watch the Course:** [Python for Data Analytics (YouTube)](https://youtu.be/wUSDVGivd-8?si=Fy79N7Abp8LDJMKh)
-* **Instructor:** [Luke Barousse](https://www.youtube.com/@lukebarousse)
-
----
-
 ## 📂 Project Structure
 
 ### 1. Analytics of Jobs Data
@@ -68,4 +60,10 @@ A deep dive into the technical usage of core Python libraries.
 * **Matplotlib**: Visualization.
 * **Seaborn**: Statistical visualization.
 * **Jupyter Notebook**: Development environment.
+
+---
+## 🎓 Course Credits
+This project was built while following the excellent "Python for Data Analytics - Full Course for Beginners" by **Luke Barousse**.
+* **Watch the Course:** [Python for Data Analytics (YouTube)](https://youtu.be/wUSDVGivd-8?si=Fy79N7Abp8LDJMKh)
+* **Instructor:** [Luke Barousse](https://www.youtube.com/@lukebarousse)
 
